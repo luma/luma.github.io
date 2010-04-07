@@ -1,0 +1,85 @@
+header {
+	background-position: bottom;
+	display: block;
+	height: 140px;
+	margin-bottom: 5px;
+	position: relative;
+}
+
+header a:link,
+header a:visited {
+	text-decoration: none;
+	color: #000;
+}
+
+header nav a:hover,
+header nav a:active {
+	color: #7FC31C;
+	text-decoration: none;
+}
+
+header h1 a {
+	background-position: 0 0;
+	display: block;
+	height: 113px;
+	margin-top: 12px;
+	width: 280px;
+}
+
+header nav.mainNav,
+header nav.langSelector {
+	display: block;
+	padding-top: 110px;
+	position: relative;
+	right: 0;
+}
+
+header nav.mainNav ul,
+header nav.langSelector ul {
+	position: absolute;
+	right: 0;
+	text-align: right;
+}
+
+header nav.mainNav ul li,
+header nav.langSelector ul li {
+	display: inline-block;
+	font-size: 1.15em;
+	line-height: 19px;
+	margin-right: 1em;
+}
+	header nav.mainNav ul li.last-item,
+	header nav.langSelector ul li.last-item {
+		margin-right: 0;
+	}
+	header nav.mainNav ul li.current-page a {
+		color: #FF690B;
+		}
+
+
+header nav.langSelector ul li {
+	visibility: hidden;
+}
+
+header nav.langSelector ul li li {
+	visibility: visible;
+	/*text-align: right;*/
+}
+
+header nav ul li em a,
+header nav ul li em span.emcontent {
+	color:#FF690B;
+/*
+	background: url(../img/sprite_bullet.png) 0 -294px no-repeat;
+	color: #666;
+	position: relative;
+	padding-left: 7px;
+	left: -7px;
+*/
+}
+
+header nav ul li em a {
+	color: #000;
+	background-position: 0 6px;
+}
+

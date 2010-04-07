@@ -1,0 +1,192 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP-SynHighlight\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2010-01-10 23:35+0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: FractalizeR <FractalizeR@yandex.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: modules/highlighter.php:23
+msgid "WP-SYNHIGHLIGHT PLUGIN: NOTHING TO HIGHLIGHT! PLEASE READ README.TXT IN PLUGIN FOLDER!"
+msgstr "WP-SYNHIGHLIGHT PLUGIN: НЕТ ТЕКСТА ДЛЯ ВЫДЕЛЕНИЯ! ПОЖАЛУЙСТА, ПРОЧТИТЕ README.TXT В ПАПКЕ С ПЛАГИНОМ!"
+
+#: modules/highlighter.php:31
+msgid "Code block"
+msgstr "Исходный код"
+
+#: modules/on_install.php:12
+#: modules/settings.php:25
+msgid "Source code"
+msgstr "Исходный код"
+
+#: modules/settings.php:227
+msgid "WP-SynHighlighter Settings"
+msgstr "Настройки WP-SynHighlighter"
+
+#: modules/settings.php:232
+msgid "If you like this plugin, you can make a donation with WebMoney (R704473788938, Z590997805426), Yandex.Money (41001122895969), MoneyBookers (FractalizeR@yandex.ru) or just send a special donation SMS directly <a href=\"http://www.fractalizer.ru\" target=\"_blank\">from my website</a> (just click that read SMS Donate button and follow instructions)"
+msgstr "Если вам понравился этот плагин, вы можете поддержать разработку с помощью WebMoney (R704473788938, Z590997805426), Yandex.Money (41001122895969), MoneyBookers (FractalizeR@yandex.ru) или просто послав специальную SMS прямо <a href=\"http://ru.fractalizer.ru\" target=\"_blank\">с моего вебсайта</a> (просто кликните по красной кнопке SMS Donate и следуйте инструкциям)"
+
+#: modules/settings.php:242
+msgid "Enable code highlighting in comments"
+msgstr "Разрешить подсветку кода в комментариях"
+
+#: modules/settings.php:253
+msgid "Disable EditArea (realtime code highlighting in GUI)"
+msgstr "Отключить EditArea (редактор исходного кода с подсветкой синтаксиса в редакторе)"
+
+#: modules/settings.php:264
+msgid "Use this theme folder"
+msgstr "Использовать оформление из этой папки"
+
+#: modules/settings.php:268
+msgid "The theme folder to use for block styling"
+msgstr "Папка темы для оформления блока с кодом"
+
+#: modules/settings.php:281
+msgid "Default code block title"
+msgstr "Заголовок блока с кодом по умолчанию"
+
+#: modules/settings.php:292
+msgid "Default line numbering style"
+msgstr "Стиль номеров строк по умолчанию"
+
+#: modules/settings.php:301
+#: modules/settings.php:352
+#: modules/settings.php:409
+#: modules/settings.php:462
+msgid "Geshi default"
+msgstr "как в geshi по умолчанию"
+
+#: modules/settings.php:309
+#: modules/settings.php:417
+msgid "no"
+msgstr "нет"
+
+#: modules/settings.php:317
+msgid "normal"
+msgstr "обычные"
+
+#: modules/settings.php:325
+msgid "fancy"
+msgstr "необычные"
+
+#: modules/settings.php:332
+msgid "Line numbers by default start with"
+msgstr "Номера строк по умолчанию начинаются с"
+
+#: modules/settings.php:343
+msgid "Default container"
+msgstr "Контейнер по умолчанию"
+
+#: modules/settings.php:360
+msgid "none"
+msgstr "нет"
+
+#: modules/settings.php:368
+msgid "DIV tag"
+msgstr "тег DIV"
+
+#: modules/settings.php:376
+msgid "PRE tag"
+msgstr "тег PRE"
+
+#: modules/settings.php:384
+msgid "valid PRE tag"
+msgstr "валидный тег PRE"
+
+#: modules/settings.php:392
+msgid "PRE and TABLE"
+msgstr "теги PRE и TABLE"
+
+#: modules/settings.php:399
+msgid "Change case of keywords by default"
+msgstr "Изменять регистр ключевых слов по умолчанию"
+
+#: modules/settings.php:425
+msgid "convert to uppercase"
+msgstr "преобразовывать в верхний регистр"
+
+#: modules/settings.php:434
+msgid "convert to lowercase"
+msgstr "преобразовывать в нижний регистр"
+
+#: modules/settings.php:442
+msgid "Default tab width"
+msgstr "Ширина табуляции по умолчанию"
+
+#: modules/settings.php:453
+msgid "Strict mode by default"
+msgstr "Строгий режим по умолчанию"
+
+#: modules/settings.php:470
+msgid "always"
+msgstr "всегда"
+
+#: modules/settings.php:478
+msgid "never"
+msgstr "никогда"
+
+#: modules/settings.php:486
+msgid "maybe"
+msgstr "иногда"
+
+#: modules/settings.php:493
+msgid "Default block state"
+msgstr "Состояние блока с кодом по умолчанию"
+
+#: modules/settings.php:502
+msgid "default"
+msgstr "по умолчанию"
+
+#: modules/settings.php:510
+msgid "expanded"
+msgstr "развернут"
+
+#: modules/settings.php:518
+msgid "collapsed"
+msgstr "свернут"
+
+#: modules/settings.php:525
+msgid "Styling type"
+msgstr "Тип оформления"
+
+#: modules/settings.php:534
+msgid "use inline styles"
+msgstr "встроенные стили"
+
+#: modules/settings.php:543
+msgid "use theme bundled css files"
+msgstr "внешние CSS файлы в папке темы"
+
+#: modules/settings.php:553
+msgid "embed styles into BODY (makes HTML invalid, browser-slow; see docs)"
+msgstr "внедрять стили (повреждает HTML, медленно отрисовывается браузером, см. документацию)"
+
+#: modules/settings.php:565
+msgid "Save Changes"
+msgstr "Сохранить изменения"
+
+#: themes/default/block_template.php:35
+msgid "Click to show/hide code block"
+msgstr "Нажмите, чтобы показать или скрыть блок кода"
+
+#: themes/default/block_template.php:41
+msgid "Show code only"
+msgstr "Показать код отдельно"
+
+#: themes/default/block_template.php:42
+msgid "Print code"
+msgstr "Напечатать код"
+
+#: themes/default/block_template.php:43
+msgid "Show plugin information"
+msgstr "Показать информацию о плагине"
+

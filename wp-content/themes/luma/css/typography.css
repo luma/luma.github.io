@@ -1,0 +1,61 @@
+body {
+    font-size: small;
+    _font-size: x-small;
+    _font-size/**/: small;
+    font-family: "Helvetica Neue","Arial","Helvetica",sans-serif
+	line-height: 1.5;
+}
+
+body header,
+/*body .contentBody.wide,*/
+body footer {
+	font-size: 107.69%;
+}
+
+/* --- text class --- */
+
+/* superior title */
+.topAside h3,
+header nav.mainNav ul li,
+header nav.langSelector ul li,
+footer h3,
+.superiorTitle,
+.red12px {
+	margin-bottom: 2px;
+	font-size: 12px;
+	line-height: 16px;
+	color: #FF690B;
+	letter-spacing: .1em;
+	text-transform: uppercase;
+}
+
+header nav.mainNav ul li,
+header nav.langSelector ul li, 
+header nav.mainNav ul li a,
+header nav.langSelector ul li a {
+	letter-spacing: 0;
+	color: #000;
+	text-transform: capitalize;
+	text-decoration: none;
+}
+
+.contentBody,
+.bodyText {
+	font-size: medium;
+	line-height: 1.5;
+}
+
+.contentBody p {
+	margin-bottom: 1.5em;
+}
+
+.contentBody article h2 {
+	font-size: 150%;
+	margin: 2em 0 .5em;
+}
+
+.contentBody article h3 {
+	font-size: 125%; /*20px*/
+	line-height: 1.4; /*28px*/
+	margin: 2.25em 0 .8em;
+}

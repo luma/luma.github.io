@@ -1,0 +1,27 @@
+/*
+Theme Name: iA3
+Theme URI: http://informationarchitects.jp/downloads/ia3/
+Description: The simple HTML5 wordpress theme based on Information Architects' website.
+Version: 1.01
+Author: Information Architects
+Author URI: http://informationarchitects.jp/
+Tags: monochrome, fixed width, simple, typographic, html5
+
+	iA3 by iA
+	http://informationarchitects.jp/
+
+	This theme was designed and built by Information Architects.
+
+	The CSS, XHTML and design is released under GPL:
+	http://www.opensource.org/licenses/gpl-license.php
+
+*/
+
+@import url(css/bundle.css.php?dir=css&files=base,typography,list,frame,header,footer);
+/*@import url(css/base.css);*/
+/*@import url(css/typography.css);*/
+/*@import url(css/list.css);*/
+/*@import url(css/frame.css);*/
+/*@import url(css/header.css);*/
+/*@import url(css/footer.css);*/
+@import url(css/iphone.css) screen and (max-device-width: 320px);
