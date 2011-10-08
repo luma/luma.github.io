@@ -1,3 +1,7 @@
+set :stages, %w(production)
+set :default_stage, "production"
+require 'capistrano/ext/multistage'
+
 set :application, "luma"
 set :repository,  "git@github.com:luma/Luma.git"
 set :branch, "production"
@@ -7,10 +11,6 @@ require "rvm/capistrano"                                # Load RVM's capistrano 
 set :rvm_ruby_string, 'ruby-1.9.2-p0'                   # Or whatever env you want it to run in."
 
 set :scm, :git
-
-role :web, "luma.co.nz"                           # Your HTTP server, Apache/etc
-role :app, "luma.co.nz"                           # This may be the same as your `Web` server
-role :db,  "luma.co.nz", :primary => true         # This is where Rails migrations will run
 
 # If you aren't deploying to /u/apps/#{application} on the target
 # servers (which is the default), you can specify the actual location
