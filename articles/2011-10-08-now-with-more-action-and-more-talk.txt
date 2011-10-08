@@ -1,0 +1,147 @@
+title: Now with more action and more talk!
+author: Rolly
+date: 2011/10/08
+
+Well, it was past time for another redesign; so here it is. Notice that I said redesign rather than tweak. With your periodical 
+design tweak, you take every down from the shelves and dust. Maybe, if you're feeling frisky, you shampoo the carpet, or you 
+try that new image replacement technique those hipster Ajax kids keep harping on about. What you don't do is tear off the entire 
+roof and replace it with it pneumatically raised, mechanically articulated, alfresco disco floor.
+
+That you save for the full redesign.
+
+<div class='push note grid_4 push_10'>
+<h2><strong>Web Designers:</strong> A Brief Word on Terminology</h2>
+<p>I know there has been a trend in web design circles for the last two years to talk about the differences between a Redesign 
+and a Realignment. There's a good summary of this in this <a href='http://www.alistapart.com/articles/redesignrealign' title='Read "Good Designers Redesign, Great Designers Realign" on ALA'>ALA article</a> by Cameron Moll. I won't repeat his arguments here, it's a good article and Cameron's stuff is always worth a read. Go and read it and then come back here.</p>
+<p>My only issue with this whole debate is that seemed to become a little too terminology focused. When these discussions flared
+up and I first read the definitions of Realign my first thought was "Well, Duh! Of course that's what you should be doing. Except that it's
+called a Redesign." I suspect that my perspective is slightly skewed here in that I'm not a graphic designer, I'm
+a software designer.</p>
+<p>When designing software, particularly the underlying architecture, you don't immediately think of the aesthetics of it. You are
+usually mostly focused on the purpose of each component and how they interact with each other. This is true even when designing UI Wireframes,
+which is the most visual part of what I do.</p>
+<p>So I completely agree that what is being called Realignment is important, I also agree that the term "Redesign" is overloaded 
+in graphic design. I only point out that I believe the word "Redesign" should be reclaimed, and Redesign for 
+purely aesthetic reasons should be given an entirely new name.</p>
+<p>Basically, if you're a designer that's been through the whole Resign vs Realign debate, just think "Realign" when I say "Redesign".</p>
+<p><a href='#note1'>Back to the main Article</a></p>
+</div>
+
+<a name='note1'></a>
+
+But the full redesign is more than just a chance to knock out a few walls. It's a chance to think about whether you 
+even *need* walls. When you start you think: "Why, of course I need walls! How else would my roof stay up?". But there are
+other ways to hold up a roof, ways that are distinctly unwall-like. Hell, maybe we don't need a roof either?
+
+The nice thing about doing a full redesign is that the whole process can be rather a good excuse to get quite meta about 
+things. You get to think about your motivations and processes; you get to a chance to make dramatic changes. The kind of changes
+that will almost certainly be challenging, a little painful, but also completely invigorating. If your redesign isn't these three 
+things (and a whole lot more) then you're likely doing it wrong.
+
+I'm not talking about the kind of wrong that will cause the police kick down your door. No one's going to drag you out of your
+house, throw you in front of the camera-flash happy media and accuse you of laziness. Instead you'll miss out in lots of small,
+quiet ways. Ways that don't seem important in the short time but, from the perspective of a longer timeline, may be the highlights
+that define you.
+
+So you embrace change and throw yourself into your redesign. You learn, grow, and come to a better understanding of how you 
+work and think. Is there any particular reason that you couldn't do all of this as part of a smaller design tweak? Yes, absolutely,
+and you should. But you miss out on the context switch.
+
+
+### The Mighty Context Switch
+
+I'm always amazed at how many difficult problems become tractable, or even trivial, from a different perspective. Sometimes all
+that's needed is a different context and, hallelujah, the hidden path becomes visible. I always assumed it had something to do
+with the cognitive load that a particular context puts on a person, that is; the sheer amount of junk you need to keep in your 
+head to understand what's going on in a large project.
+
+Context, constraints, and history are all bound up tightly together. When you're managing a project you try your try your best 
+to not let that bundle become a angry, knotted mess. If you don't, you won't get to spend your time creating. Instead you'll spend 
+your time nervously pulling on exposed loops, hoping that each one you tug on isn't the one that leaves you with something that 
+you'll never untie.
+
+Striking the right balance is hard. I have infinite respect for the few project leaders that I know can manage it. You want to 
+acknowledge context (otherwise what you deliver would serve no one) and you want to embrace your constraints (so you'll be 
+making the best use of your resources and avoiding undue effort). But you also don't want to be held hostage by your constraints and 
+history; You want to be agile so you can respond to new situations.
+
+This is not the same as the [Project Triangle](http://en.wikipedia.org/wiki/Project_triangle) (TL;DR Version: Good, Fast, or Cheap. Pick any two). In fact context, 
+constraints, and history are the three of the most critical things to take into when pondering your own Project Triangle. Sadly, there isn't 
+a nice clean mapping between the two. Instead you use them (and other factors) to work out what Good, Fast, and Cheap would look like for your project &mdash; and what 
+the relative cost of each would be.
+
+### Constraints are Liberating?
+
+[Constraints are definitely Liberating](http://gettingreal.37signals.com/ch03_Embrace_Constraints.php). That has definitely been my experience so I don't want to 
+imply otherwise, but there's usually a point in every project at which the choices that you've made are too hard to undo &mdash; your constraints 
+too limiting. This is when you have no choice but to step outside of your project's context. This is also usually the point 
+when, right or wrong, people start talking about a redesign. 
+
+It's tricky to know when a full redesign is needed and when a few tweaks are all that's needed. I don't want to give the impression that a
+redesign is all ponies and unicorns. On large projects deciding to do The Big Rewrite is a decision that can, and frequently does
+kill a project. They are dangerous for a great [many](http://programmers.stackexchange.com/questions/6268/when-is-a-big-rewrite-the-answer#6303) reasons, and really are the atom bombs 
+of project management. Even if it solves your problems you might not be able to live with the consequences.
+
+
+### Neither the High Road or the Low Road
+
+There is definitely a middle path that can be walked. A place where you gain a number of the benefits of the redesign, without
+having to accept all the risks. That is the Incremental Redesign. The Incremental Redesign is exactly what it sounds like: you
+take your one large redesign and divide it up into a series of smaller, discreet projects. The discreetness of these projects
+is actually the secret sauce that makes this work, as it allows you to tackle small chunks of the problem without being forced to
+deal with the complexity of the entire project.
+
+When done right, this allows improvements to deployed to a specific part of a larger system *without* major interruptions to 
+overall system availability. This means more frequent deploys, faster feedback cycles and, usually, a system that zeros-in quicker
+on the user's needs.
+
+A particular challenge when attempting this is dealing with systems that have degenerated into [Big Balls of Mud](http://en.wikipedia.org/wiki/Big_ball_of_mud). I'm hard-pressed to characterise this
+as a flaw of Incremental Redesigns, as systems in this state are always a complete pain in the arse. 
+
+Seriously, expect to loose both hair and sanity.
+
+Replacing them in a single massive redesign is hugely risky, but it can equally difficult to identify subsystems 
+modular enough that they can be tackled without accidentally borking related systems. Usually a process of partial decoupling will
+be necessary before the real redesign begin. This is frequently painful both technically *and* politically as your users frequently won't
+see any immediate benefits of this work, so you need to work harder to justify it to the stakeholders.
+
+In large systems, that are critical parts of businesses infrastructure there is a (correct) instinct to be constantly improving
+and bringing the capabilities and purpose of the system inline with it's users and the overall objectives of the business. This
+all becomes a bit like painting the Forth Bridge ([interestingly enough](http://www.webinquirer.co.uk/painting-of-the-forth-bridge-about-to-end/7795/) I probably won't get to use this phrase anymore), as the user requirements
+will be constantly evolving, as will the businesses, so systems are never really finished.
+
+There is a tendency, particularly for badly briefed CFOs, to view this as something of an indulgence. But if you're a company 
+that leans heavily on a piece of technology that you support internally then you should be viewing this as a necessary investment 
+to stay competitive and a opportunity to develop these systems in such a way that they can actually make your processes more efficient.
+
+But this only works if the purpose of these systems stays relevant to what the business is trying to achieve. If you redesign
+once every couple of years then it's nigh-on impossible to do. If you're constantly analysing and improving your systems, then it's
+only bloody hard to do. 
+
+These goals gel really nicely with the idea of an continuous, Incremental Redesign. In fact I'd go as far as saying that this 
+should be the default way of approaching long term development on software projects that businesses have a stake in.
+
+
+### This sure is a lot of words
+
+Yeah, it is. Especially since I could have just gone with: Here's my new site, enjoy! 
+
+One of my goals for the redesign of this site was to give myself a vehicle to jot down a few thoughts about how I do things. This 
+definitely isn't self-aggrandizing, nor is it a marketing exercise. I not a writer and I dare-say I'll embarrass myself more often 
+than not. But I totally buy into the idea that you show/gain mastery of a topic by explaining it, and that frequently the best
+way to communicate something is still to write it down.
+
+My whole spiel about redesigns came about because it was already on my mind. This was partly because I needed to bring luma.co.nz
+inline with where my head was at, but it was mostly because the issues of design, redesign, and maintenance are very relevant to
+most businesses I deal with.
+
+It's a sad fact that most businesses still have a very uneasy relationship with software. This is especially true for companies 
+that develop or maintain software, but don't have software development as part of their core business. There really is room for
+us all to improve here. But I figure it will only get better if we're actually discussing these issues.
+
+To put it another way, it was time that I joined the rest of the Internet monkeys and see if we can't bang out the software 
+engineering equivalent of Shakespeare.
+
+
+
+
