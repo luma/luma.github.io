@@ -1,4 +1,4 @@
-title: Luma: Now with more action and more talk!
+title: "Luma: Now with more action and more talk!"
 author: Rolly
 date: 2011/10/08
 
