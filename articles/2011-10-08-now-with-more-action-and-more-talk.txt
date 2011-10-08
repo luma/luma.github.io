@@ -3,7 +3,7 @@ author: Rolly
 date: 2011/10/08
 
 Well, it was past time for another redesign; so here it is. Notice that I said redesign rather than tweak. With your periodical 
-design tweak, you take every down from the shelves and dust. Maybe, if you're feeling frisky, you shampoo the carpet, or you 
+design tweak, you take every thing down from the shelves and dust. Maybe, if you're feeling frisky, you shampoo the carpet, or you 
 try that new image replacement technique those hipster Ajax kids keep harping on about. What you don't do is tear off the entire 
 roof and replace it with it pneumatically raised, mechanically articulated, alfresco disco floor.
 
@@ -33,14 +33,14 @@ But the full redesign is more than just a chance to knock out a few walls. It's 
 even *need* walls. When you start you think: "Why, of course I need walls! How else would my roof stay up?". But there are
 other ways to hold up a roof, ways that are distinctly unwall-like. Hell, maybe we don't need a roof either?
 
-The nice thing about doing a full redesign is that the whole process can be rather a good excuse to get quite meta about 
-things. You get to think about your motivations and processes; you get to a chance to make dramatic changes. The kind of changes
+The nice thing about doing a full redesign is that the whole process can be rather a good excuse to get quite Meta about 
+things. You get to think about your motivations and processes; you get a chance to make dramatic changes. The kind of changes
 that will almost certainly be challenging, a little painful, but also completely invigorating. If your redesign isn't these three 
 things (and a whole lot more) then you're likely doing it wrong.
 
-I'm not talking about the kind of wrong that will cause the police kick down your door. No one's going to drag you out of your
+I'm not talking about the kind of wrong that will cause the police to kick down your door. No one's going to drag you out of your
 house, throw you in front of the camera-flash happy media and accuse you of laziness. Instead you'll miss out in lots of small,
-quiet ways. Ways that don't seem important in the short time but, from the perspective of a longer timeline, may be the highlights
+quiet ways. Ways that don't seem important in the short term but, from the perspective of a longer timeline, may be the highlights
 that define you.
 
 So you embrace change and throw yourself into your redesign. You learn, grow, and come to a better understanding of how you 
@@ -52,12 +52,12 @@ and you should. But you miss out on the context switch.
 
 I'm always amazed at how many difficult problems become tractable, or even trivial, from a different perspective. Sometimes all
 that's needed is a different context and, hallelujah, the hidden path becomes visible. I always assumed it had something to do
-with the cognitive load that a particular context puts on a person, that is; the sheer amount of junk you need to keep in your 
+with the cognitive load that a particular context puts on a person, that is: the sheer amount of junk you need to keep in your 
 head to understand what's going on in a large project.
 
-Context, constraints, and history are all bound up tightly together. When you're managing a project you try your try your best 
-to not let that bundle become a angry, knotted mess. If you don't, you won't get to spend your time creating. Instead you'll spend 
-your time nervously pulling on exposed loops, hoping that each one you tug on isn't the one that leaves you with something that 
+Context, constraints, and history are all bound up tightly together. When you're managing a project you try your best to not let 
+that bundle become an angry, knotted mess. If you don't, you won't get to spend your time creating. Instead you'll spend your time 
+nervously pulling on exposed loops, hoping that each one you tug on isn't the one that leaves you with something that 
 you'll never untie.
 
 Striking the right balance is hard. I have infinite respect for the few project leaders that I know can manage it. You want to 
@@ -66,7 +66,7 @@ making the best use of your resources and avoiding undue effort). But you also d
 history; You want to be agile so you can respond to new situations.
 
 This is not the same as the [Project Triangle](http://en.wikipedia.org/wiki/Project_triangle) (TL;DR Version: Good, Fast, or Cheap. Pick any two). In fact context, 
-constraints, and history are the three of the most critical things to take into when pondering your own Project Triangle. Sadly, there isn't 
+constraints, and history are three of the most critical things to take into account when pondering your own Project Triangle. Sadly, there isn't 
 a nice clean mapping between the two. Instead you use them (and other factors) to work out what Good, Fast, and Cheap would look like for your project &mdash; and what 
 the relative cost of each would be.
 
