@@ -127,9 +127,9 @@ should be the default way of approaching long term development on software proje
 Yeah, it is. Especially since I could have just gone with: Here's my new site, enjoy! 
 
 One of my goals for the redesign of this site was to give myself a vehicle to jot down a few thoughts about how I do things. This 
-definitely isn't self-aggrandizing, nor is it a marketing exercise. I not a writer and I dare-say I'll embarrass myself more often 
-than not. But I totally buy into the idea that you show/gain mastery of a topic by explaining it, and that frequently the best
-way to communicate something is still to write it down.
+definitely isn't self-aggrandizing, nor is it a marketing exercise. I'm not a writer and, I dare-say, I'll embarrass myself more often 
+than not. But I totally buy into the idea that you show/gain mastery of a topic by explaining it, and frequently the best way to 
+communicate something is still to write it down.
 
 My whole spiel about redesigns came about because it was already on my mind. This was partly because I needed to bring luma.co.nz
 inline with where my head was at, but it was mostly because the issues of design, redesign, and maintenance are very relevant to
